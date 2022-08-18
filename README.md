@@ -1,4 +1,4 @@
-### Docker {{ name }}
+### Docker Python Node Science
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/{{ docker_hub_username }}/{{ docker_hub_repo }}.svg)](https://hub.docker.com/r/{{ docker_hub_username }}/{{ docker_hub_repo }})
 
